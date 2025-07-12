@@ -1,0 +1,14 @@
+{
+  "name": "Example Plugin",
+  "description": "An example plugin for LifeOS Core",
+  "version": "1.0.0",
+  "author": "LifeOS Core",
+  "source": "builtin",
+  "type": "manual",
+  "enabled": false,
+  "schedule": null,
+  "main": "index.js",
+  "config": {
+    "exampleSetting": "value"
+  }
+} 
